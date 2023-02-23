@@ -4,5 +4,9 @@
 
 ## Hi there!
 
-Currently studing in UPM ETSISI and learning about backend technologies and security. I have some WIP projects *(I hope to finish some of them someday)*.
+Currently studing in UPM ETSISI and learning about backend technologies, security and distributed architectures. I have some WIP projects *(I hope to finish some of them someday)*.
 Contact me 10alejo.est@gmail.com
+
+Right now working on [Life Supporting Technologies](https://www.lst.tfo.upm.es/) as part of the [IDEA4RC project](https://cordis.europa.eu/project/id/101057048) as part of the technical team and later on [Gravitate Health](https://www.gravitatehealth.eu/) giving support implementing solutions previously discussed in IDEA4RC.
+<br><br>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=10alejospain&show_icons=true&theme=gotham" alt="10alejospain" />
